@@ -6,30 +6,50 @@ A badminton court management system project can be designed to manage the schedu
 
 
 •	Efficient court booking process.
+
 •	Real time court availability information.
+
 •	Admin panel for managing courts and users.
+
 •	User friendly and convenient online booking experience. 
+
 •	Effective communication with users.
+
 •	User feedback collection.
 
 
 TOOLS AND PLATFORM
 
 • HTML
+
 • CSS
+
 • Javascript
+
 • PHP
+
 • MySQL
+
 •	Front End – HTML, CSS, PHP  
+
 •	Back End – MySQL 
+
 •	Server – Apache 
+
+
 
 SCOPE OF SOLUTION
 
 •	Whole business was taken online.
+
 •	Data security was implemented by introducing the Databases.
+
 •	Feedback system introduced to improve the system.
+
 •	Easy to track the all activities and their record.
+
+
+
 
 LIST OF OUTPUTS
 
