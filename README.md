@@ -69,7 +69,7 @@ User dashboard:
 
 ![Image](https://github.com/user-attachments/assets/1f6d98a3-33fa-4821-8269-24af3bd760c1)
 
-Courts andEquipments display:
+Courts and Equipments display:
 
 ![Image](https://github.com/user-attachments/assets/81982e10-ee9f-4e63-96d9-456d86d232cd)
 
