@@ -64,3 +64,21 @@ About page:
 User login:
 
 ![Image](https://github.com/user-attachments/assets/ba539802-897c-4cd9-9d5c-5debd9ff51f1)
+
+User dashboard:
+
+![Image](https://github.com/user-attachments/assets/1f6d98a3-33fa-4821-8269-24af3bd760c1)
+
+Courts andEquipments display:
+
+![Image](https://github.com/user-attachments/assets/81982e10-ee9f-4e63-96d9-456d86d232cd)
+
+![Image](https://github.com/user-attachments/assets/3d86e94d-b5fc-4ab4-8618-7f40fb8ca19b)
+
+Admin dashboard:
+
+![Image](https://github.com/user-attachments/assets/7d33ee44-a733-4e2c-94c4-04f8f305e2f4)
+
+Booked courts and equipments:
+
+![Image](https://github.com/user-attachments/assets/89b9da04-9629-4442-a97c-44bf80c6f8dd)
