@@ -59,7 +59,7 @@ Home page:
 
 About page:
 
-![Image](https://github.com/user-attachments/assets/655704d3-c899-4def-8af5-8533db5c6f59)
+![Image](https://github.com/user-attachments/assets/ee3de5f3-eb3e-4fdd-a03c-c52627255cf3)
 
 User login:
 
